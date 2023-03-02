@@ -1,0 +1,5 @@
+baseURL = 'https://eoel-meles.github.io'
+languageCode = 'en-us'
+title = 'Eyoel Meles'
+
+theme = 'hugo-book'
